@@ -1,0 +1,9 @@
+C:\Users\admin\Documents\PUCP\7 SETIMO CICLO\LP2\TA\crediSoft\crediSoft\bin\Debug\crediSoft.exe.config
+C:\Users\admin\Documents\PUCP\7 SETIMO CICLO\LP2\TA\crediSoft\crediSoft\bin\Debug\crediSoft.exe
+C:\Users\admin\Documents\PUCP\7 SETIMO CICLO\LP2\TA\crediSoft\crediSoft\bin\Debug\crediSoft.pdb
+C:\Users\admin\Documents\PUCP\7 SETIMO CICLO\LP2\TA\crediSoft\crediSoft\obj\Debug\crediSoft.csprojAssemblyReference.cache
+C:\Users\admin\Documents\PUCP\7 SETIMO CICLO\LP2\TA\crediSoft\crediSoft\obj\Debug\crediSoft.frmStudentStatus_.resources
+C:\Users\admin\Documents\PUCP\7 SETIMO CICLO\LP2\TA\crediSoft\crediSoft\obj\Debug\crediSoft.csproj.GenerateResource.cache
+C:\Users\admin\Documents\PUCP\7 SETIMO CICLO\LP2\TA\crediSoft\crediSoft\obj\Debug\crediSoft.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\PUCP\7 SETIMO CICLO\LP2\TA\crediSoft\crediSoft\obj\Debug\crediSoft.exe
+C:\Users\admin\Documents\PUCP\7 SETIMO CICLO\LP2\TA\crediSoft\crediSoft\obj\Debug\crediSoft.pdb
